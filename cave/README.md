@@ -1,5 +1,6 @@
 # Adventure Quest
 
+## Description
 Adventure Quest is a sample adventure for Bash Quest which takes the player on a
 short adventure to traverse a cave and slay a dragon.
 
