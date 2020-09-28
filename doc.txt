@@ -1,4 +1,5 @@
 Bash Quest Engine!
 Usage:
   play.sh run {ROOT_DIR} - Launches the Bash Quest Engine in the specified directory
+  play.sh test {ROOT_DIR} {TEST_FILE} - Launches Bash Quest Engine in the specified directory and runs the commands in the specified TEST_FILE.
   play.sh help - Prints this message!
