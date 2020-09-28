@@ -3,18 +3,18 @@ A text based adventure in your Shell!
 
 ## Table of Contents
 
-* Your Task
-* Getting Started
-* Sample Adventure
-* How it Works
-  - How Rooms Work
-  - Initializing Your Adventure
-* Milestones
-  - Milestone 1: Design Document and Adventure README.md
-  - Milestone 2: Create a Win Test
-  - Milestone 3: Completed Adventure
-* Grading
-* Getting Help
+* [Your Task](#your-task)
+* [Getting Started](#getting-started)
+* [Sample Adventure](#sample-adventure)
+* [How it Works](#how-it-works)
+  - [How Rooms Work](#how-rooms-work)
+  - [Initializing Your Adventure](#initializing-the-adventure)
+* [Milestones](#milestones)
+  - [Milestone 1: Design Document and Adventure README.md](#milestone-1)
+  - [Milestone 2: Create a Win Test](#milestone-2)
+  - [Milestone 3: Completed Adventure](#milestone-3)
+* [Grading](#grading)
+* [Getting Help](#getting-help)
 
 ## Your Task
 
