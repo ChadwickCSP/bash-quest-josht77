@@ -1,0 +1,7 @@
+
+Outside in front of a steep mountain
+
+You are standing in front of a large mountain with a pathway that leads up.
+There may be artifacts at the top of the mountain or an abandoned village.
+Do you choose to [climb] the mountain or turn around and head 
+[home] to the safety of your village?

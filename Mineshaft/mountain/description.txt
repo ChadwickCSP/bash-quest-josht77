@@ -1,0 +1,7 @@
+
+top of mountain
+
+You have reached the top of the mountain after a long hike. There appears to be
+a ladder that leads down into a dark hole where you cannot see the bottom. 
+You do not have a source of light so it would be risky to go down the ladder. 
+You can either go [down] the ladder into the darkness, or walk back down the [path] of the mountain. 

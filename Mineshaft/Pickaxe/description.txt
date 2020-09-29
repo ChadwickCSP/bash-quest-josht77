@@ -1,0 +1,6 @@
+
+Open room
+
+After walking for what seemed like eternity, you reached the light. The light source was a torch 
+that you could hold. There was also a pickaxe that could be useful in the future. You take the pickaxe
+and torch and can either [continue] down the pathway or head [back] the way you came.

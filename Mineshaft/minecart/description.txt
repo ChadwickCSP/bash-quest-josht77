@@ -1,0 +1,6 @@
+
+Minecart
+
+You climb down the ladder and see a minecart. You realize that you have climbed down into a Mineshaft.
+There are two pathways. You see light at the end of the pathway on the right. 
+The path on the left leads you into darkness. Do you choose to go to the [right] or go to the [left].
