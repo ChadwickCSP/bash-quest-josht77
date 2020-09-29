@@ -14,16 +14,15 @@ Treasure in the Mineshaft has one puzzle
 
 ### Get the Sword
 
-To complete the 
-To complete Adventure Quest, the player must acquire a sword that can be used to
-slay the dragon. To get the sword, the player must obtain a key. To get the key,
-the player must lift a boulder. To lift the boulder, the player must lift
-weights in the gym.
+To find the Treasure, the player must aquire a torch to naviagate throught he pathways in the Mineshaft.
+They also must find a Pickaxe to mine through some stone. They will need strength as well in order
+to mine the stone. Eventually, the player will find a key that is needed to open a chest that will hold 
+the secret treasure.
 
 ## Tests
 
-There is one test, `cave/tests/win` which when used will complete the entire
-game in 16 moves
+There is one test, `Mineshaft/tests/win` which when used will complete the entire
+game in blank moves
 
 ## Known bugs
 
