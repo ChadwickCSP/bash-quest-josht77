@@ -6,7 +6,7 @@ find the lost treasure chest.
 
 ## Game Map
 
-![Game Map](cave.png)
+Refer to the Design Doc pdf
 
 ## Puzzles
 
