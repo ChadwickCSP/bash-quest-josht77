@@ -6,7 +6,7 @@ find the lost treasure chest.
 
 ## Game Map
 
-DesignDoc.pdf
+Design Doc.pdf
 
 ## Puzzles
 
