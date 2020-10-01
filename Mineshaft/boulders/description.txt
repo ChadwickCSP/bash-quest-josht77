@@ -1,0 +1,7 @@
+
+Boulders 
+
+You walk into a room with many boulders layed out across the floor.
+It has been a very long day, but you could use some strength training for the day.
+Having some extra muscle would never hurt. There is also another pathway.
+You can go [forward], [lift], or go [back] the way you came. 

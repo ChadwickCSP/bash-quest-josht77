@@ -2,8 +2,17 @@ if [ "$ACTION" = "right" ]; then
   echo "You begin walking towards the light."
   cd ../Pickaxe
 elif [ "$ACTION" = "left" ]; then
-  echo "You begin walking in the dark."
-  cd ../Lost
+     if [ "$HAS_TORCH" = "TRUE" ]; then
+        echo "The pathway lights up because of your torch."
+        sleep 1
+        DESCRIPTION="$(cat description.txt)"
+        cd ../Lost
+    else
+        echo "You keep wallking and walking, but get lost in the dark. There is no returning."
+        sleep 1
+        LOSE="$(cat lose.txt)"
+        echo "$LOSE"
+        exit 1
 else 
   echo "Invalid command!"
 fi
