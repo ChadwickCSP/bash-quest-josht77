@@ -13,6 +13,7 @@ elif [ "$ACTION" = "left" ]; then
         LOSE="$(cat lose.txt)"
         echo "$LOSE"
         exit 1
+    fi
 else 
   echo "Invalid command!"
 fi
