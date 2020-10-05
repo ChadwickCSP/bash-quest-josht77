@@ -1,0 +1,4 @@
+
+Dead End
+
+You reach a dead end. You have to [turn] and begin heading back the way you came.
