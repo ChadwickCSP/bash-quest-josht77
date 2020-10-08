@@ -3,5 +3,6 @@ The path of the Lost
 
 luckily you aquired that torch before coming here. 
 You would never be able to find your way back without a light source. 
-The torch lights up two different pathways. You can choose to go to the [right], to the [left] or make your way [back]. 
+The torch lights up two different pathways. 
+You can choose to go to the [right], to the [left] or make your way [back]. 
 

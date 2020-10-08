@@ -1,14 +1,12 @@
-     if [ "$HAS_TORCH" = "TRUE" ]; then
-        echo "The pathway lights up because of your torch."
-        sleep 1
-        DESCRIPTION="$(cat description.txt)"
-    else
-        echo "You keep wallking and walking, but get lost in the dark. There is no returning."
-        sleep 1
-        LOSE="$(cat lose.txt)"
-        echo "$LOSE"
-        exit 1
-    fi
+if [ "$ACTION" = "right" ]; then
+    echo "You take the path to the right."
+    cd ../boulders
+elif [ "$ACTION" = "left" ]; then
+    echo "You take the path to the left."
+    cd ../stone_wall
+elif [ "$ACTION" = "back" ]; then
+    echo "Too scared of the unknown, you make your way back."
+    cd ../minecart
 else 
   echo "Invalid command!"
 fi

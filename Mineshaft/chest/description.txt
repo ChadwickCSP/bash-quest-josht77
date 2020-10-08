@@ -1,0 +1,6 @@
+
+Treasure 
+
+You reach a room that holds a chest and nothing else.
+There is no other way to go except returing to the [boulders] or 
+to [open] the chest. 
