@@ -1,0 +1,8 @@
+
+Ravine
+
+There is a large ravine that was behind the stone wall.
+Your torch lights up what is in front of you and you see
+a key hanging on the other side. It must be for the chest.
+Do you try and make the [jump] or [return] to the wall.
+

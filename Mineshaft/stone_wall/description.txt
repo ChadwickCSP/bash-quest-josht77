@@ -1,0 +1,7 @@
+
+Stone wall
+
+You reach what appears to be a dead end, however, the wall in 
+front may break easily. It could be dangerous to try and 
+break the wall down, but what is behind could be glorious.
+Do you want to try and [break] the wall or go [back]. 

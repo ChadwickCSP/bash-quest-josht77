@@ -11,7 +11,10 @@ back
 left
 break
 jump
+take
+jump
 return
 back
 right
 forward
+open
