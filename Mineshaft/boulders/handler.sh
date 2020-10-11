@@ -6,7 +6,7 @@ if [ "$ACTION" = "lift" ]; then
         sleep 1
         echo "Your strength is now $STRENGTH"
     else
-        echo "Your strenght grows"
+        echo "Your strength grows"
         echo "Maybe you can lift some more."
     fi
 elif [ "$ACTION" = "forward" ]; then
