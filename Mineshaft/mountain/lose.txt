@@ -1,0 +1,4 @@
+You did not go down into the Mineshaft with adequate 
+resources and ended up getting lost. You were dehydrated
+and starving until the point where you could not go any
+further. 
